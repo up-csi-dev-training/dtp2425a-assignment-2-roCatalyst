@@ -1,5 +1,9 @@
-My first poem
-by Lucas Agcaoili
++---------------------+
+|                     |
+|  My first poem      |
+|  by Lucas Agcaoili  |
+|                     |
++---------------------+
 
 The quick brown fox jumped over the lazy dog.
 I wouldn't jump over dogs, that's just wrong.
