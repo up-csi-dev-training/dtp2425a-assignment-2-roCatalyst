@@ -1,6 +1,6 @@
 +---------------------+
 |                     |
-|  My first poem      |
+|  "My first poem"    |
 |  by Lucas Agcaoili  |
 |                     |
 +---------------------+
